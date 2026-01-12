@@ -1,4 +1,4 @@
-package ch.heig.sio.lab3.groupX;
+package ch.heig.sio.lab3.groupF;
 
 import com.google.ortools.Loader;
 import com.google.ortools.linearsolver.MPSolver;
